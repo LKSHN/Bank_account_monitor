@@ -11,7 +11,7 @@ import tkinter as tk
 def create_main_window():
     #Create window
     root = tk.Tk()
-    root.title("Openfront.io Dashboard")
+    root.title("My Bank Account Monitor")
     root.geometry("820x600")
     root.protocol("WM_DELETE_WINDOW", root.quit)
     return (root)
