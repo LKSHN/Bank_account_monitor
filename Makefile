@@ -8,3 +8,6 @@
 
 all:	main.py
 	python3.12.exe main.py
+
+test: test.py
+	python3.12.exe test.py
